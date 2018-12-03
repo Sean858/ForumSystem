@@ -1,0 +1,20 @@
+.reportPopup {
+  width: 400px !important
+}
+
+.reportCheckbox {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  margin-right: 20px !important;
+}
+
+.reportTextArea {
+  width: 100% !important;
+  height: 100px !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.reportCheckboxLabel {
+  vertical-align : middle !important;
+}

@@ -1,0 +1,81 @@
+{
+  "token": "1234d()@!#NW5$$##",
+  "profile": {
+    "name": "James", 
+    "dateJoined": "2018-10-12 12:32:12", 
+    "avatarId": 0,
+    "likesReceived": 1331, 
+    "statusId": 0, 
+    "email": "abskc@gmail.com", 
+    "likedPosts":[0,1,5,6,7], 
+    "posts": [
+      {
+        "id": 0,
+        "title": "Hello everyone!",
+        "date": "2018-10-12 11:34:10",
+        "likes": 123,
+        "commentCount": 12
+      },
+      {
+        "id": 1,
+        "title": "Thanksgiving break",
+        "date": "2017-10-12 11:34:10",
+        "likes": 1,
+        "commentCount": 0
+      },
+      {
+        "id": 2,
+        "title": "Happy times",
+        "date": "2018-10-11 11:34:10",
+        "likes": 13,
+        "commentCount": 45
+      },
+      {
+        "id": 3,
+        "title": "Whoohoo!",
+        "date": "2018-11-12 11:34:10",
+        "likes": 12333,
+        "commentCount": 1232
+      }
+    ],
+    "comments": [
+      {
+        "postId": 0,
+        "postTitle": "Boohoo",
+        "date": "2018-10-11 11:34:10",
+        "content": "I strongly disagree"
+      },
+      {
+        "postId": 0,
+        "postTitle": "Boohosaaso",
+        "date": "2018-10-11 11:34:10",
+        "content": "I hello disagree"
+      },
+      {
+        "postId": 0,
+        "postTitle": "Bosdasohoo",
+        "date": "2028-10-11 11:34:10",
+        "content": "I strongly disagree"
+      },
+      {
+        "postId": 0,
+        "postTitle": "asdas",
+        "date": "2011-10-11 11:34:10",
+        "content": "I strongly"
+      },
+      {
+        "postId": 0,
+        "postTitle": "dsads",
+        "date": "2018-11-11 11:34:10",
+        "content": "I disagree"
+      },
+      {
+        "postId": 0,
+        "postTitle": "da",
+        "date": "2018-10-11 12:34:10",
+        "content": "I strongly disagree I strongly disagreeI strongly disagreeI strongly disagreeI strongly disagreeI strongly disagreeI strongly disagreeI strongly disagreeI strongly disagree"
+      }
+    ]
+    
+  }
+}

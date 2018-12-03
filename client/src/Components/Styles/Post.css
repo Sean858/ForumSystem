@@ -1,0 +1,58 @@
+.post {
+    height: 150px;
+    margin-bottom: 40px !important;
+}
+
+.postGrid {
+    height:150px
+}
+
+.authorImage {
+    width:100%; 
+}
+
+.postContent {
+    margin-top: 1.4em;
+    text-align: left;
+    display: inline-block;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 2.8em;
+    line-height: 1.4em;
+    width: 100%;
+}
+
+.postCategory {
+    /* float:left; */
+    display: flex !important;
+    flex-direction: row !important;
+    right: -1em !important;
+    left: auto !important;
+}
+
+.postCategoryIcon {
+    /* float: left; */
+    display: inline-block;
+}
+
+.postSubheader {
+    margin-top: 10px !important;
+}
+
+.postActionButton {
+    border: 0px !important;
+    box-shadow: none !important;
+    padding: 0px !important;
+    margin: 0px !important;
+    margin-left: 10px !important;
+}
+
+.postActionIcon {
+    color: #cccccc !important;
+}
+
+.commentCount {
+    border:0px !important;
+    /* box-shadow: none !important; */
+}

@@ -1,0 +1,74 @@
+{
+  "reports": [
+    {
+      "report_id": 0,
+      "reported_name":"James Mike",
+      "reporter_name":"Mike James",
+      "report_date": "2018-08-19 12:19:28",
+      "report_reason_ids": [0,1,2],
+      "reported_post_id": 0
+    },
+    {
+      "report_id": 1,
+      "reported_name":"Nate Ham",
+      "reporter_name":"Brown Bromsbroms",
+      "report_date": "2018-08-19 11:19:28",
+      "report_reason_ids": [0,1,2],
+      "reported_post_id": 1
+    },
+    {
+      "report_id": 2,
+      "reported_name":"Userr",
+      "reporter_name":"User name",
+      "report_date": "2017-08-19 12:19:28",
+      "report_reason_ids": [0,1,2],
+      "reported_post_id": 2
+    },
+    {
+      "report_id": 3,
+      "reported_name":"Jasssmes",
+      "reporter_name":"Miksdsasdae",
+      "report_date": "2018-10-19 12:19:28",
+      "report_reason_ids": [0,1,2],
+      "reported_post_id": 2
+    },
+    {
+      "report_id": 4,
+      "reported_name":"James",
+      "reporter_name":"Mike",
+      "report_date": "2018-08-16 12:19:28",
+      "report_reason_ids": [0,1],
+      "reported_post_id": 1
+    }
+  ],
+  "bans": [
+    {
+      "ban_id": 0,
+      "banned_name": "James Ham",
+      "banned_by": "John Krasinski",
+      "banned_date": "2018-10-19 12:19:28",
+      "banned_reason_ids": [0,1,2]
+    },
+    {
+      "ban_id": 1,
+      "banned_name": "James Ham",
+      "banned_by": "Emily Blunt",
+      "banned_date": "2018-10-19 12:19:12",
+      "banned_reason_ids": [1]
+    },
+    {
+      "ban_id": 2,
+      "banned_name": "James Ham",
+      "banned_by": "John Krasinski",
+      "banned_date": "2018-10-19 11:19:28",
+      "banned_reason_ids": [0,1]
+    },
+    {
+      "ban_id": 3,
+      "banned_name": "James mmmmmmmmm",
+      "banned_by": "John Krasinski",
+      "banned_date": "2018-10-19 10:19:28",
+      "banned_reason_ids": [1,2]
+    }
+  ]
+}

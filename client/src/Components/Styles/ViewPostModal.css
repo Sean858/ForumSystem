@@ -1,0 +1,29 @@
+.commentContainer {
+  margin-top: 50px !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+  max-width: none !important;
+  min-width: 800px;
+}
+
+.commentGroup {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+.commentReplyForm {
+  margin-bottom: 50px !important;
+}
+
+.viewPostSubHeader {
+  font-size: 0.7em !important;
+  font-weight: 100 !important;
+  margin-top: 10px !important;
+}
+
+.viewPostAuthor {
+  font-weight: 700 !important;
+  margin-right: 5px;
+}

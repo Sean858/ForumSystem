@@ -1,0 +1,20 @@
+.text {
+    color:#000000;
+}
+
+.top-menu {
+    height:70px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background: #ffffff !important
+}
+
+.logoutText {
+    color: red !important;
+}
+
+.statsIcon {
+    margin-right: 16px !important;
+}
